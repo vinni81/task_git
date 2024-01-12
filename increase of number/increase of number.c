@@ -9,6 +9,7 @@ int main()
 
     if (num1 < num2 && num2 < num3) 
     printf("Yes\n");
+    
     else 
     printf("No\n");
     return 0;
