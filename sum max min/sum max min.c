@@ -12,15 +12,19 @@ int main()
     max = num1;
     min = num1;
 
-    if (num2 > max) {
+    if (num2 > max) 
+    {
         max = num2;
-    } else if (num2 < min) {
+    } else if (num2 < min) 
+    {
         min = num2;
     }
 
-    if (num3 > max) {
+    if (num3 > max) 
+    {
         max = num3;
-    } else if (num3 < min) {
+    } else if (num3 < min) 
+    {
         min = num3;
     }
 
@@ -30,9 +34,11 @@ int main()
         min = num4;
     }
 
-    if (num5 > max) {
+    if (num5 > max) 
+    {
         max = num5;
-    } else if (num5 < min) {
+    } else if (num5 < min) 
+    {
         min = num5;
     }
 
