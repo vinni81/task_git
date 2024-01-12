@@ -1,12 +1,14 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     int month;
 
     printf("enter number of month (from 1 upto 12): ");
     scanf("%d", &month);
 
-    switch (month) {
+    switch (month) 
+    {
         case 12:
         case 1:
         case 2:
