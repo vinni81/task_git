@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int main()  {
-	int num1, num2, num3, max;
-
+int main()   
+{
+    int num1, num2, num3, max;
     printf("Enter three integers without gaps: ");
     scanf("%d %d %d", &num1, &num2, &num3);
 
@@ -18,4 +18,4 @@ int main()  {
     printf("Max integer: %d\n", max);
 
 	return 0;
-}
+  }
