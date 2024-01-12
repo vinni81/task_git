@@ -9,13 +9,11 @@ int main()
     max = num1; 
 
     if (num2 > max) 
-        max = num2; 
+    max = num2; 
     
-
     if (num3 > max) 
-        max = num3; 
+    max = num3; 
 
     printf("Max integer: %d\n", max);
-
-	return 0;
+    return 0;
   }
