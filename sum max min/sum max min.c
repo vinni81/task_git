@@ -30,7 +30,8 @@ int main()
         min = num3;
     }
 
-    if (num4 > max) {
+    if (num4 > max) 
+    {
         max = num4;
     } 
     else if (num4 < min) 
